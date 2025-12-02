@@ -1,1 +1,1 @@
-# library_carpentry_workshops
+# Unterlagen für Trainings (Library Carpentry Workshops)
